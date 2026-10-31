@@ -80,6 +80,17 @@ Scene render modules remain in the tree for later show work; the control UI cove
 
 Large local video files under `media/videos/` are **not** meant for git. Keep clips locally; see `media/videos/README.md`.
 
+## License
+
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Free to use, share, and adapt (including commercially). You **must** credit the original source whenever you share or reuse it. Reasonable credit looks like:
+
+> Media-Projector by Markus, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+> Source: `https://github.com/YOUR_USER/helloween` (replace with the real repo URL after publish).
+
+Keep the copyright notice and a link to the license (and to this repo when practical). If you change the code, say so. Full text: [`LICENSE`](LICENSE).
+
 ## Commit note
 
 Sign commits locally; agents do not commit here.
