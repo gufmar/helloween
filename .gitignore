@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vite
+.env
+.env.*
+
+# Full SimReady USD trial packs (huge); sprites live under public/media/figures/
+media/simready-trial/
+
+media/halloween-hf/
+
+# Large local show clips (keep locally, do not publish)
+media/videos/*.mp4
+media/videos/*.webm
+media/videos/*.mov
